@@ -21,7 +21,7 @@ form ul {
   display: grid;
   justify-content: center;
   position: relative;
-  top: 370px;
+  top: 380px;
 }
 
 li {
@@ -32,7 +32,7 @@ li {
 display: grid;
 justify-content: center;
 position: relative;
-top: 380px;
+top: 385px;
 }
 
 button {
